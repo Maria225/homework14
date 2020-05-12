@@ -1,2 +1,1 @@
-# homework14
-javascript
+javascript-challenge
